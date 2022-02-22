@@ -1,5 +1,4 @@
 
-
 let jmeno = "Petra";
 let věk = 34;
 let vaha = 65;
