@@ -12,5 +12,16 @@ let bmi = vaha / (1.67 * 1.67);
 console.log("Jmenuji se" + jmeno + "Je mi" věk + "Vážím" + vaha + "Měřím" + výška + "Moje BMI je" + bmi );
 
 
+let jmenoMuz = "Petr";
+let jmenoZena = "Aneta";
+
+let rokmuz = 1990;
+let rokzena = 1995;
+
+let mesicMuz = 12;
+let mesicZena = 10;
+
+
+
 
 
