@@ -17,5 +17,6 @@ let snezi = false;
 let a = 5;
 let b = 10;
 
-let soucet a + b;
+let soucet = a + b;
+
 
