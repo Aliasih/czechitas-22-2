@@ -1,22 +1,11 @@
 
-let jirik = 54;
 
-jirik = 57.4564
+let jmeno = "Petra";
+let věk = 34;
+let váha = 65;
+let výška = 1.67;
+let BMI = 23.2
 
-console.log(jirik);
-
-let jmeno = "Alena"
-
-//prší - true = pravda
-let prsi = true;
-//nesněží false = lež
-let snezi = false;
-
-
-
-let a = 5;
-let b = 10;
-
-let soucet = a + b;
-
+//vzorecek pro BMI
+let bmi = vaha / (1.67 * 1.67);
 
