@@ -12,3 +12,10 @@ let prsi = true;
 //nesněží false = lež
 let snezi = false;
 
+
+
+let a = 5;
+let b = 10;
+
+let soucet a + b;
+
