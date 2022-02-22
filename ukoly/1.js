@@ -1,4 +1,10 @@
-console.log("čau");
 
+//K vypsání konzole
+console.log("");
 
+/*
+více 
+řádkový
+komentář
+*/
 
