@@ -3,3 +3,4 @@ console.log ("Jmenuješ se:" + jmeno);
 
 
 
+
