@@ -14,3 +14,4 @@ console.log("Jmenuji se" + jmeno + "Je mi" věk + "Vážím" + vaha + "Měřím"
 
 
 
+
