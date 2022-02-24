@@ -1,8 +1,6 @@
-console.log("aloha")
 
+import './ukoly2/1.js'
 
-
-import './ukoly/2.js'
 
 
 
