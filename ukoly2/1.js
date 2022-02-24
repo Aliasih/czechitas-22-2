@@ -18,4 +18,4 @@ while (cislo != 0) {
   // znovu while cyklus 
 }
 
-console.log.("Finalni soucet: " + soucet);
+console.log("Finalni soucet: " + soucet);
