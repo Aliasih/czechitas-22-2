@@ -19,3 +19,5 @@ while (cislo != 0) {
 }
 
 console.log("Finalni soucet: " + soucet);
+
+
