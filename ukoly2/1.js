@@ -5,4 +5,4 @@ while ( cislo == 0) {
   cislo = Number(prompt("zadej"));
 }
 
-console.log("Vaše zadané číslo je:" + cislo)
+console.log("Vaše zadané číslo je: " + cislo)
