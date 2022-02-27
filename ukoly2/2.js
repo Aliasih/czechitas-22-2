@@ -20,5 +20,5 @@ for (let i = 1, i <= horni; i++) {
   }
 }
 
-//ÚKOL FOR 3
+//ÚKOL FOR 3k
 
